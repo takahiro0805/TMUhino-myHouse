@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "家",
+        "_markerType": "CircleMarker",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.5,
+        "_radius": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56520020961761,
+          35.68189724794107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "首都大学東京日野キャンパス",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.36482310295105,
+              35.66159379825812
+            ],
+            [
+              139.365713596344,
+              35.66033855396818
+            ],
+            [
+              139.36804175376892,
+              35.66012934466811
+            ],
+            [
+              139.36804175376892,
+              35.661619948970994
+            ],
+            [
+              139.36776280403137,
+              35.6630059244977
+            ],
+            [
+              139.36482310295105,
+              35.66159379825812
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
